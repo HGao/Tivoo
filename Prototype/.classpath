@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/Peggy/Desktop/CompSci/Java Libraries/jdom/build/jdom-1.1.2.jar" sourcepath="C:/Users/Peggy/Desktop/CompSci/Java Libraries/jdom/build/jdom-1.1.2-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Peggy/Desktop/CompSci/Java Libraries/joda-time-2.0/joda-time-2.0-sources.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Peggy/Desktop/CompSci/Java Libraries/gagawa-1.0.1.jar" sourcepath="C:/Users/Peggy/Desktop/CompSci/Java Libraries/gagawa-read-only"/>
+	<classpathentry kind="lib" path="C:/Users/Peggy/Desktop/CompSci/Java Libraries/joda-time-2.0/joda-time-2.0.jar" sourcepath="C:/Users/Peggy/Desktop/CompSci/Java Libraries/joda-time-2.0/joda-time-2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Peggy/Desktop/CompSci/Java Libraries/joda-time-2.0/joda-time-2.0-sources.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
